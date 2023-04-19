@@ -1,1 +1,1 @@
-alert("iran ");d
+alert("iran ");
